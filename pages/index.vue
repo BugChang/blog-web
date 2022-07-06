@@ -1,5 +1,5 @@
 <template>
-    <h1>Index Page</h1>
+    <h1>博客首页</h1>
       <el-row class="mb-4">
     <el-button>Default</el-button>
     <el-button type="primary">Primary</el-button>
