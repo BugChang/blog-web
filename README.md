@@ -42,6 +42,6 @@ npm run preview
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
 
 
-use vuetify3 
+## use vuetify3 
 
 https://codybontecou.com/how-to-use-vuetify-with-nuxt-3.html#enjoy-vuetify-alongside-nuxt-3
